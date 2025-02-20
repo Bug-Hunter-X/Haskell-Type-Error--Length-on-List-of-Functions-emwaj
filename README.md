@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in Haskell when using the `length` function on a list containing functions with varying return types. The `bug.hs` file shows the erroneous code. The solution, provided in `bugSolution.hs`, involves type annotations for more precise type checking.
